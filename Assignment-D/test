@@ -1,1 +1,7 @@
+# Assignment D: Optical Flow and Image Warping
+ 
+**Task**:  
+- Implemented the **Lucas-Kanade optical flow algorithm** from scratch for motion estimation between video frames.
+- Developed **image warping** techniques using the computed optical flow to interpolate frames and compare accuracy with the actual frames.
 
+This assignment demonstrates the application of optical flow for motion analysis and image processing tasks.
